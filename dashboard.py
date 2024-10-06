@@ -16,7 +16,7 @@ st.title("An adaptive learning platform to tailor the existing curriculum based 
 # st.title("Random Forest Classifier with Grid Search")
 
 # Specify the file path directly from your local machine
-file_path = '../SL_csv.csv'  # Replace with the correct path to your file
+file_path = 'SL_csv.csv'  # Replace with the correct path to your file
 # st.write(f"Reading data from: {file_path}")
 
 # Load the dataset
